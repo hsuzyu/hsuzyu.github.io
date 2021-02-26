@@ -4,7 +4,7 @@
 ## 興趣
 遊戲，YOUTUBE，貓貓
 
-```
+```C
 #include <stdio.h>
 int main()
 {
